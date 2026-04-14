@@ -577,3 +577,118 @@ Har jagah same question:
 
 ---
 
+
+<br>
+
+
+
+# 7. Affect vs Effect (Super Simple)
+
+## 🟢 1. Affect (verb)
+
+👉 **Affect = asar daalna (action)**
+👉 Ye **kaam (verb)** hota hai
+
+### Example:
+
+* This smell **affects** my health.
+  👉 (ye meri health par asar daal rahi hai)
+
+---
+
+## 🔵 2. Effect (noun)
+
+👉 **Effect = result / nateeja**
+👉 Ye **cheez (noun)** hota hai
+
+### Example:
+
+* The **effect** of dirty water is disease.
+  👉 (gande pani ka nateeja bimari hai)
+
+---
+
+# 🧠 Easy Trick (Yaad rakhne ka)
+
+👉 **Affect = Action (dono A se)**
+👉 **Effect = End result (E = End)**
+
+---
+
+# 🔥 Compare (side by side)
+
+* Pollution **affects** people.
+  👉 (asar daalta hai)
+
+* The **effect** of pollution is illness.
+  👉 (nateeja)
+
+---
+
+# ⚡ Tumhari mistake samjho
+
+❌ "which effect the health"
+👉 galat
+
+✔️ "which **affects** the health"
+👉 sahi (kyun ke yahan action ho raha hai)
+
+---
+
+# 🎯 Final Simple Line
+
+👉 **Affect = asar daalna (verb)**
+👉 **Effect = nateeja (noun)**
+
+---
+
+<br>
+
+
+# 8. Drainage ka matlab
+
+👉 **Drainage = pani nikalne ka system**
+
+📌 Urdu:
+👉 **پانی نکالنے کا نظام**
+👉 ya **نکاسی آب کا نظام**
+
+---
+
+# 🧠 Simple samajh:
+
+👉 Jab barsaat ya gandha pani jama ho jata hai
+👉 usay nikalne ke liye jo system hota hai
+👉 usay **drainage system** kehte hain
+
+---
+
+# 🔧 Real Life Example
+
+* Roads ke side jo **naliyaan (drains)** hoti hain
+  👉 ye sab drainage system ka part hoti hain
+
+---
+
+# 🧾 Example Sentences
+
+* The drainage system is not working.
+  👉 drainage system kaam nahi kar raha
+
+* There is no proper drainage in our area.
+  👉 hamare area mein sahi drainage system nahi hai
+
+---
+
+# ⚡ Easy Trick
+
+👉 **Drainage = pani ko bahar nikalna**
+
+---
+
+# 🎯 Final Simple Line
+
+👉 **Drainage = pani ko jama hone se bachane aur bahar nikalne ka system**
+
+---
+
