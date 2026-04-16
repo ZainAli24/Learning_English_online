@@ -225,3 +225,125 @@
 
 <br>
 
+
+
+# 6. “Have” ka simple matlab
+
+👉 **“Have” ka ek hi matlab nahi hota**
+👉 situation ke hisaab se matlab change hota hai
+
+---
+
+# 🧠 Step 1: Do type yaad karo
+
+## 🟢 1. Have = “mere paas hai”
+
+👉 jab cheez ho
+
+* I have a mobile.
+  👉 mere paas mobile hai
+
+* I have a book.
+  👉 mere paas kitab hai
+
+---
+
+## 🔵 2. Have = “main karta hoon / leta hoon”
+
+👉 jab **daily routine ya food** ho
+
+* I have breakfast.
+  👉 main nashta karta hoon
+
+* I have lunch.
+  👉 main lunch karta hoon
+
+---
+
+# ⚡ Ab main confusion clear karta hoon
+
+👉 Tum soch rahe ho:
+
+“I have breakfast” = mere paas breakfast hai ❌
+
+👉 Lekin English mein:
+👉 ye ek **fixed expression** hai
+
+👉 iska matlab hota hai:
+✔️ **main nashta karta hoon**
+
+---
+
+# 🧠 Easy trick (100% kaam karega)
+
+👉 Sentence dekho:
+
+### 🍔 Food ho?
+
+👉 have = khana
+
+* I have tea → main chai peeta hoon
+
+---
+
+### 📦 Cheez ho?
+
+👉 have = paas hona
+
+* I have a car → mere paas car hai
+
+---
+
+# 🔥 Ultra Simple Rule
+
+👉 **Food → have = khana**
+👉 **Object → have = paas hona**
+
+---
+
+# 🎯 Final Example
+
+* I have breakfast in morning
+  👉 main subah nashta karta hoon
+
+---
+
+<br>
+
+## 7. On Meaning: 
+#### "On" ka matlab Roman Urdu mein "par" (پر), "oopar" (اوپر), ya "kisi cheez ke mutaliq" (regarding) hota hai. Yeh position ya waqt batane ke liye istemaal hota hai. 
+
+#### Misalein (Examples):
+- The book is on the table: Kitab mez par (par/oopar) hai.
+- On Monday: Peer ko/par (waqt ke liye).
+- On request: Darkhwast par (mutaliq).
+
+#### Context ke hisaab se iska Roman Urdu mein istemaal badal sakta hai, lekin aksar jagah "par" (پر) hi nikalta hai.
+
+
+----------
+
+<br>
+
+## 8. Too:
+#### very, too  --> بہت
+
+#### also, too --> بهی
+
+------
+
+### To --> کو
+
+### Maybe  -> شاید, هو سکتا هے
+
+### Them --> انہیں
+
+### Get Used To --> عادت پڑنا
+
+### be --> ہونا
+
+### how --> کس طرح
+### THat how  --> اس طرح
+
+### Get --> ہونا/بننا
+
