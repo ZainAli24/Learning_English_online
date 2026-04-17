@@ -577,6 +577,81 @@ Har jagah same question:
 
 ---
 
+<br>
+
+
+# 7.  Preposition kya hota hai?
+
+👉 **Preposition = wo chhota word jo kisi cheez ki position (jagah), time ya relation batata hai**
+
+---
+
+# 🧠 Simple samajh:
+
+👉 Preposition batata hai:
+
+* 📍 **kahan? (place)**
+* ⏰ **kab? (time)**
+* 🔗 **kis ke sath / relation**
+
+---
+
+# 📍 1. Place (jagah)
+
+👉 cheez kahan hai?
+
+* The book is **on** the table.
+  👉 kitab table **par** hai
+
+* The cat is **under** the chair.
+  👉 billi kursi **ke neeche** hai
+
+* He is **in** the room.
+  👉 wo room **mein** hai
+
+---
+
+# ⏰ 2. Time (waqt)
+
+* I wake up **at** 7 AM
+  👉 main 7 baje uthta hoon
+
+* I study **in** the morning
+  👉 main subah parhta hoon
+
+* I will come **on** Monday
+  👉 main Monday ko aunga
+
+---
+
+# 🔗 3. Relation (taluk)
+
+* I am sitting **with** my friend
+  👉 main dost ke **sath** hoon
+
+* This gift is **for** you
+  👉 ye gift tumhare **liye** hai
+
+---
+
+# 🔥 Common Prepositions
+
+👉 in, on, at, under, over, with, for, to, from
+
+---
+
+# 🧠 Easy Trick
+
+👉 Preposition = **jagah + time + relation batane wala word**
+
+---
+
+# 🎯 Final Simple Line
+
+👉 **Preposition wo word hota hai jo batata hai ke koi cheez kahan hai, kab hai, ya kis ke sath hai**
+
+
+------
 
 <br>
 
@@ -692,3 +767,102 @@ Har jagah same question:
 
 ---
 
+<br>
+
+## in , at , on:
+Great 👍 chalo **in / on / at** ko bohat simple tareeke se samjhte hain:
+
+---
+
+# 📘 1. IN (andar / andar ke andar)
+
+👉 jab koi cheez **andar ho**
+👉 ya **bada time period** ho
+
+### 📍 Place:
+
+* The book is **in** the bag
+  👉 kitab bag **ke andar** hai
+
+### ⏰ Time:
+
+* I study **in** the morning
+  👉 main subah parhta hoon
+
+* I was born **in** 2005
+  👉 main 2005 mein paida hua
+
+---
+
+# 📘 2. ON (upar / surface par)
+
+👉 jab koi cheez **kisi surface (upar)** ho
+
+### 📍 Place:
+
+* The book is **on** the table
+  👉 kitab table **par** hai
+
+### ⏰ Time:
+
+* I have a class **on** Monday
+  👉 meri class Monday ko hai
+
+---
+
+# 📘 3. AT (exact point / specific)
+
+👉 jab **exact jagah ya exact time** ho
+
+### 📍 Place:
+
+* I am **at** home
+  👉 main ghar par hoon
+
+* She is **at** the bus stop
+  👉 wo bus stop par hai
+
+### ⏰ Time:
+
+* I wake up **at** 7 AM
+  👉 main 7 baje uthta hoon
+
+---
+
+# 🧠 Easy Trick (Golden Rule)
+
+👉 **IN → andar / bada time**
+👉 **ON → upar / days**
+👉 **AT → exact point**
+
+---
+
+# 🔥 Quick Compare
+
+* in the room → room ke andar
+* on the table → table ke upar
+* at the door → darwaze par
+
+---
+
+# 🎯 Final Simple Line
+
+👉 **in = andar**
+👉 **on = upar**
+👉 **at = exact point**
+
+---
+
+# ✍️ Practice (tum try karo)
+
+Fill karo:
+
+1. I wake up ___ 7 AM
+2. The cat is ___ the table
+3. I study ___ the evening
+4. I will go ___ Monday
+5. I am ___ home
+
+---
+
+<br>
