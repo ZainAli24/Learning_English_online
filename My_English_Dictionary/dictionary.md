@@ -2,7 +2,7 @@
 
 English Phrases & Vocabulary with Urdu Meanings
 
-**Last Updated:** May 14, 2026 | **Total Words:** 20
+**Last Updated:** May 14, 2026 | **Total Words:** 25
 
 ---
 
@@ -167,3 +167,45 @@ English Phrases & Vocabulary with Urdu Meanings
 **Example:** Let me clarify — the deadline is for the frontend only, not for the full product. The backend will be delivered next week.
 
 ---
+
+## 21. Here's the thing (بات یہ ہے کہ)
+
+**Meaning:** "Baat yeh hai ke" ya "asal masla yeh hai". Jab aap koi important baat kehne lage jo saamne wale ko shayad pata na ho, ya koi aisi baat jo poori situation badal de — toh pehle "here's the thing" bol do. Isse saamne wala samajh jaata hai ke ab koi zaroori baat aane wali hai, dhyan se suno.
+
+**Example:** Here's the thing — this app needs a payment system, and that alone takes a week.
+
+---
+
+## 22. That reminds me of (مجھے یاد آیا)
+
+**Meaning:** "Mujhe yaad aaya" ya "is se mujhe wo baat yaad aa gayi". Jab koi baat ho rahi ho aur achanak aapko koi purani baat, koi experience, ya koi cheez yaad aa jaye jo is se milti julti ho — toh bolte ho "that reminds me of..." Jaise dost koi kahani suna raha hai aur aapko apni koi milti julti kahani yaad aa jaye.
+
+**Example:** That reminds me of our last project — the same thing happened and we were delayed by two weeks.
+
+---
+
+## 23. In my opinion (میری رائے میں)
+
+**Meaning:** "Meri raaye mein". Yeh bilkul seedha tareeqa hai apni raaye dene ka. "From my perspective" se thoda kam formal hai — yeh roz marra baat cheet mein bhi use hota hai aur office mein bhi. Jab aap kisi cheez ke baare mein apna khayal batana chahte ho toh bolte ho "in my opinion..." Farq yaad rakho: "From my perspective" zyada formal hai (client/boss ke saath), "In my opinion" normal hai (team/dost ke saath), "If you ask me" sab se casual hai.
+
+**Example:** In my opinion, React is better because it has a bigger community and more support.
+
+---
+
+## 24. Let me rephrase that (مجھے دوبارہ الفاظ بدل کر کہنے دو)
+
+**Meaning:** "Mujhe dobara alag alfaaz mein kehne do". Jab aap koi baat kehte ho lekin saamne wale ko samajh nahi aati, ya aapko lagta hai ke aap ne sahi se nahi bola — toh bolte ho "let me rephrase that" aur phir wahi baat alag tareeqe se samjhate ho. Yeh "let me clarify" se thoda alag hai — clarify mein galat faimi door karte ho, rephrase mein apne hi alfaaz badal ke dubara bolte ho.
+
+**Example:** The system will crash under load — let me rephrase that — the system needs optimization to handle more users smoothly.
+
+---
+
+## 25. I partly agree (میں کچھ حد تک متفق ہوں)
+
+**Meaning:** "Mein kuch had tak manta hoon" ya "thoda agree karta hoon lekin poora nahi". Jab koi baat kare aur aap us se poora agree na karo lekin poora disagree bhi na karo — kuch hissa sahi lage kuch nahi — toh bolte ho "I partly agree." Yeh bohat achi professional skill hai kyunke aap seedha "nahi, galat ho" nahi bol rahe, balke respect se keh rahe ho ke kuch baat sahi hai lekin kuch nahi.
+
+**Example:** I partly agree — we can extend the deadline by two days, but not a full week.
+
+---
+
+<br>
