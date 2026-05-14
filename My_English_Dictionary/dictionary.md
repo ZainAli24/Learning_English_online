@@ -2,7 +2,7 @@
 
 English Phrases & Vocabulary with Urdu Meanings
 
-**Last Updated:** May 12, 2026 | **Total Words:** 16
+**Last Updated:** May 14, 2026 | **Total Words:** 20
 
 ---
 
@@ -133,5 +133,37 @@ English Phrases & Vocabulary with Urdu Meanings
 **Meaning:** Sabr karo, jaldi mat karo, ruko thoda. Horses matlab ghode — jaise ghode ko lagaam se rokna. Jab koi bohat jaldi mein ho ya bina soche kuch karne lage, toh bolte hain "hold your horses!" — yani ruk bhai, pehle soch, phir kar. Yeh tab use hota hai jab koi bina poori baat sune action le raha ho.
 
 **Example:** My friend found a bug in the code and he quickly tried to delete the entire code. I told him to hold his horses — read the code line by line, find the bug properly, then try to fix it without deleting the entire code.
+
+---
+
+## 17. From my perspective (میرے نقطہ نظر سے)
+
+**Meaning:** "Mere nazariye se" ya "meri raaye mein". Jab aap office mein ya meeting mein apni raaye dena chahte ho lekin seedha nahi bolna chahte ke "yeh aisa hona chahiye" — toh aap politely bolte ho "from my perspective..." Yeh ek shareef aur professional tareeqa hai apni baat rakhne ka. Isse saamne wale ko lagta hai ke aap apni raaye de rahe ho, thop nahi rahe.
+
+**Example:** From my perspective, using FastAPI is better than Node.js for this specific AI project.
+
+---
+
+## 18. To be honest (سچ کہوں تو)
+
+**Meaning:** "Sach kahun toh". Jab aap koi aisi baat kehne lage jo shayad saamne wale ko pasand na aaye — koi complaint ho, koi feedback ho jo thoda kadwa ho — toh pehle "to be honest" bol do. Isse baat soft lagti hai. Jaise aap seedha nahi bolte "khana bohat bura tha" — balke bolte ho "to be honest, the food was not good" — yani sach kahun toh khana acha nahi tha.
+
+**Example:** To be honest, I think the colors in this design need to change — they don't look professional.
+
+---
+
+## 19. If you ask me (اگر آپ مجھ سے پوچھیں)
+
+**Meaning:** "Agar mujhse puuchho toh". Yeh thoda friendly aur casual tareeqa hai apni raaye dene ka. Jab koi aap se mashwara le raha ho ya aap apni taraf se suggestion dena chahte ho, toh bolte ho "if you ask me..." Yeh "from my perspective" se thoda kam formal hai — dost, colleague, ya team ke saath use hota hai.
+
+**Example:** If you ask me, we should start the meeting ten minutes early to finish on time.
+
+---
+
+## 20. Let me clarify (مجھے واضح کرنے دیں)
+
+**Meaning:** "Mujhe saaf kar lene do" ya "mujhe wazahat karne dein". Jab koi galat faimi ho jaye, koi baat sahi se samjh na aaye, ya koi confusion ho — toh aap bolte ho "let me clarify." Yeh bohat zaroori phrase hai office mein kyunke client ya manager ko galat baat samajh aa jaye toh masla ho sakta hai. Yeh kehne se saamne wala ruk jaata hai aur dhyan se sunta hai.
+
+**Example:** Let me clarify — the deadline is for the frontend only, not for the full product. The backend will be delivered next week.
 
 ---
