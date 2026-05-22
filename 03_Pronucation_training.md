@@ -260,3 +260,59 @@ Zain, kya mien in sounds ko use karte hue aapke tech-related words (jaise Router
 
 <br>
 
+
+## Pronunciation (V, W, TH Sounds):
+
+### 1. **V Sound** ke liye trick:
+
+* **Trick:** **"Bite your lip"** (Apne neeche wale hont ko halka sa kaatein/touch karein).
+* Jab aap bolte hain, toh aap ke upar wale daant neeche wale hont ko touch karne chahiye.
+* **Video Examples:**
+* *Every*
+* *Very*
+* *Value*
+
+
+
+### 2. **W Sound** ke liye trick:
+
+* **Trick:** **"Kiss your finger"** (Apne lips ko bilkul gol karein, jaise kisi ko kiss karne ke liye ya whistle/seeti bajane ke liye hont gol kiye jaate hain).
+* Is mien daant hont ko bilkul touch nahi karenge, sirf lips gol honge.
+* **Video Examples:**
+* *Week*
+* *When*
+* *Women*
+* *Why*
+
+
+
+### Main Difference jo video mien clear kiya:
+
+Video ke start mien larki bolti hai *"Every Veek"* (jo ke ghalat pronunciation hai). Instructor usay correct karti hai ke pehle word mien **V** hai toh hont ko daant se touch karo (**Every**), aur dosre word mien **W** hai toh lips ko gol karo (**Week**).
+
+Toh jab dono ko sath bolenge toh sound banega: **"Every Week"**.
+
+[V , W sound video link](https://youtu.be/jPDnkcgPge4?si=gPBwSI0C63DPxlwf)
+
+------
+
+### 3. Voiceless TH Sound (Jaise: *Think*, *Thank*, *Mouth*)
+
+Is sound ko nikalne ke liye Emma ne ye do steps bataye hain:
+
+* **Step 1:** Apni zaban ko apne daanton ke darmiyan rakhein (**"Put your tongue between your teeth"**).
+* **Step 2:** Phir apne upar wale daanton aur zaban ke beech mien se hawa ko bahar push karein (**"Push air between your top teeth and your tongue"**).
+* Is mien gale se koi aawaz nahi niklegi, sirf ek "thhh" jaisi hawa nikalne ki aawaz aayegi.
+
+### 2. Voiced TH Sound (Jaise: *This*, *The*, *Those*)
+
+Is sound ke liye instructions ye hain:
+
+* **Step 1:** Apni zaban ko bilkul pehle wale sound ki tarah hi daanton ke darmiyan rakhein (**"Put your tongue in the same position"**).
+* **Step 2:** Lekin is baar, hawa push karne ke sath-sath aap ne apne gale ke vocal cords ko vibrate karna hai (**"Vibrate your vocal cords"**). Video mien Emma apne gale par haath rakh kar dikhati hain ke yahan vibration feel honi chahiye.
+* Is se ek gunjti hui "Zzz/Dhh" jaisi aawaz banti hai.
+
+**Khas Tip:** Dono sounds mien zaban ki position bilkul same hai (daanton ke beech mien). Bas pehle wale mien sirf hawa phoonkni hai, aur dosre wale mien gale se thodi vibration ya aawaz nikalni hai.
+
+
+[Th Sound video link](https://youtu.be/dTv3akmtnGc?si=ktNQ4fKFilZFX9Zq)
