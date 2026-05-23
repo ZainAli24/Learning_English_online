@@ -2,7 +2,7 @@
 
 English Phrases & Vocabulary with Urdu Meanings
 
-**Last Updated:** May 14, 2026 | **Total Words:** 25
+**Last Updated:** May 14, 2026 | **Total Words:** 28
 
 ---
 
@@ -205,6 +205,30 @@ English Phrases & Vocabulary with Urdu Meanings
 **Meaning:** "Mein kuch had tak manta hoon" ya "thoda agree karta hoon lekin poora nahi". Jab koi baat kare aur aap us se poora agree na karo lekin poora disagree bhi na karo — kuch hissa sahi lage kuch nahi — toh bolte ho "I partly agree." Yeh bohat achi professional skill hai kyunke aap seedha "nahi, galat ho" nahi bol rahe, balke respect se keh rahe ho ke kuch baat sahi hai lekin kuch nahi.
 
 **Example:** I partly agree — we can extend the deadline by two days, but not a full week.
+
+---
+
+## 26. As far as I know (جہاں تک مجھے پتا ہے)
+
+**Meaning:** "Jahan tak mujhe pata hai". Jab aap koi baat bata rahe ho lekin aapko 100% yakeen nahi hai ke bilkul sahi hai — toh pehle "as far as I know" bol do. Isse saamne wale ko samajh aa jaata hai ke yeh aapki jaankari ke mutabiq hai, lekin ho sakta hai kuch aur bhi ho. Yeh aapko safe rakhta hai — agar baad mein baat galat nikle toh aapne pehle hi bol diya tha ke "jahan tak mujhe pata hai."
+
+**Example:** As far as I know, the meeting is at 3 PM — but check with the manager to confirm.
+
+---
+
+## 27. In my experience (میرے تجربے میں)
+
+**Meaning:** "Mere tajurbe mein" ya "mein ne jitna dekha hai". Jab aap apni zindagi ya kaam ka tajurba share karna chahte ho kisi cheez ke baare mein — toh bolte ho "in my experience." Yeh "in my opinion" se alag hai — opinion mein aap sirf raaye de rahe ho, lekin experience mein aap bata rahe ho ke mein ne khud yeh dekha hai, jhela hai, kiya hai. Isse aapki baat mein weight aata hai kyunke aapne khud experience kiya hai.
+
+**Example:** In my experience, React is easier to learn and has more job opportunities than Angular.
+
+---
+
+## 28. The way I see it (جس طرح مجھے نظر آتا ہے)
+
+**Meaning:** "Jis tarah mujhe nazar aata hai" ya "meri samajh ke mutabiq". Yeh bhi raaye dene ka tareeqa hai lekin thoda zyada confident tareeqa. Jab aap kisi situation ko apne nazariye se samjha rahe ho — toh bolte ho "the way I see it." Yeh "in my opinion" se thoda strong hai — jaise aap keh rahe ho ke mein ne poori situation dekhi hai aur meri samajh yeh hai.
+
+**Example:** The way I see it, we should build the backend first because the frontend depends on the API.
 
 ---
 
